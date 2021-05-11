@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 [<img src="https://img.shields.io/github/followers/corgii-123?label=follow&style=social" height="20" title="Follow me" />](https://github.com/corgii-123) 
 [![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/5718929/)
-[![Instagram](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&labelColor=black&logo=LeetCode&logoColor=white)](https://leetcode-cn.com/u/corgii-123/)
-[![Gmail](https://img.shields.io/badge/-掘金-blue?style=flat)](https://juejin.cn/user/439429169157368)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&labelColor=black&logo=LeetCode&logoColor=white)](https://leetcode-cn.com/u/corgii-123/)
+[![Juejin](https://img.shields.io/badge/-掘金-blue?style=flat)](https://juejin.cn/user/439429169157368)
 
 My name is **Shi Jieyang**, I'm 23 years old and I'm a postgraduate of **Geotechnical Engineering** at Tianjin University.
 I am completely enthusiastic with frontend development, graphs and also very interested in my original major. I love watching animations, series and sharing it with my friends <img height ="20" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
