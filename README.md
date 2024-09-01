@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&labelColor=black&logo=LeetCode&logoColor=white)](https://leetcode-cn.com/u/corgii-123/)
 [![Juejin](https://img.shields.io/badge/-掘金-blue?style=flat)](https://juejin.cn/user/439429169157368)
 
-My name is **Shi Jieyang**, I'm 23 years old and I'm a postgraduate of **Geotechnical Engineering** at Tianjin University.
+My name is **Shi Jieyang**, I'm 26 years old and I'm graduated from **Geotechnical Engineering** at Tianjin University.
 I am completely enthusiastic with frontend development, graphs and also very interested in my original major. I love watching animations, series and sharing it with my friends <img height ="20" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
 
 <img align= "right" width= "250" src= "https://media.giphy.com/media/gixQfE7XzZfpe/giphy.gif"/>
